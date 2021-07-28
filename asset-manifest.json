@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/burgershopwebsite/static/css/main.0c54a098.chunk.css",
+    "main.js": "/burgershopwebsite/static/js/main.f63dc142.chunk.js",
+    "main.js.map": "/burgershopwebsite/static/js/main.f63dc142.chunk.js.map",
+    "runtime-main.js": "/burgershopwebsite/static/js/runtime-main.84283b54.js",
+    "runtime-main.js.map": "/burgershopwebsite/static/js/runtime-main.84283b54.js.map",
+    "static/js/2.3b4f7e74.chunk.js": "/burgershopwebsite/static/js/2.3b4f7e74.chunk.js",
+    "static/js/2.3b4f7e74.chunk.js.map": "/burgershopwebsite/static/js/2.3b4f7e74.chunk.js.map",
+    "index.html": "/burgershopwebsite/index.html",
+    "static/css/main.0c54a098.chunk.css.map": "/burgershopwebsite/static/css/main.0c54a098.chunk.css.map",
+    "static/js/2.3b4f7e74.chunk.js.LICENSE.txt": "/burgershopwebsite/static/js/2.3b4f7e74.chunk.js.LICENSE.txt",
+    "static/media/about.8f603ed2.jpg": "/burgershopwebsite/static/media/about.8f603ed2.jpg",
+    "static/media/index.css": "/burgershopwebsite/static/media/footer.jpg.e47a3a7a.jpg",
+    "static/media/logo.png.8f78c60c.png": "/burgershopwebsite/static/media/logo.png.8f78c60c.png",
+    "static/media/s1.8a4fa455.png": "/burgershopwebsite/static/media/s1.8a4fa455.png",
+    "static/media/s2.b0665d18.png": "/burgershopwebsite/static/media/s2.b0665d18.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84283b54.js",
+    "static/js/2.3b4f7e74.chunk.js",
+    "static/css/main.0c54a098.chunk.css",
+    "static/js/main.f63dc142.chunk.js"
+  ]
+}
